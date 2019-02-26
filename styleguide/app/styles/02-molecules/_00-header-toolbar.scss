@@ -1,0 +1,31 @@
+.header-toolbar {
+	position: relative;
+
+	display: flex;
+
+	align-content: flex-start;
+	flex: 1;
+	flex-wrap: nowrap;
+}
+
+.header-breadcrumb {
+	flex-grow: 1;
+	margin-left: -8px;
+
+	.ms-Breadcrumb {
+		margin-top: .125em !important;
+	}
+}
+
+.header-action {
+	align-self: flex-end;
+}
+
+.learning-searchbox {
+	position: absolute;
+
+	width: calc(100% - 3*41px);
+	padding: .35em .5em .5em;
+
+	background-color: $c-light-gray;
+}

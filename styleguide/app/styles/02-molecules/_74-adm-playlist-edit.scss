@@ -1,0 +1,50 @@
+.pl-edit-item {
+	display: flex;
+
+	height: 3em;
+	padding-left: 1em;
+	margin-bottom: 0.25em;
+
+	cursor: pointer;
+
+	justify-content: space-between;
+	align-items: center;
+
+	&.custom {
+		background-color: lighten($c-light-gray, 5%);
+
+		.pl-edit-title {
+			&:before {
+				content: '';
+				display: inline-block;
+				font-family: FabricMDL2Icons;
+				max-width: 20px;
+				margin-right: 0.5em;
+				align-self: bottom;
+			}
+		}
+	}
+
+	&:hover {
+		color: $c-blue;
+		background-color: $c-light-gray;
+
+		.pl-edit-actions {
+
+			.iconbutton {
+				background-color: $c-light-gray;
+			}
+
+			&:hover {
+
+				.iconbutton {
+					background-color: darken($c-light-gray, 20%);
+				}
+			}
+		}
+	}
+}
+
+.pl-edit-title {
+	line-height: 2em;
+}

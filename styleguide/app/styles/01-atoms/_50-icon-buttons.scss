@@ -1,0 +1,39 @@
+.iconbutton {
+	display: inline-block;
+
+	box-sizing: border-box;
+	margin: 0;
+	padding: 10px;
+	padding-bottom: 8px;
+
+	transition: background-color ease-in-out .125s;
+
+	border: 1px transparent solid;
+	background-color: transparent;
+
+	&.outline {
+		background-color: pink;
+
+		.iconbutton-img {
+			background-color: lime;
+		}
+	}
+
+	&-img {
+		display: inline-block;
+
+		width: 16px;
+		height: 16px;
+	}
+
+	&.disabled {
+		visibility: hidden;
+	}
+
+	&:hover,
+	&.selected {
+		cursor: pointer;
+
+		background-color: $c-light-gray;
+	}
+}

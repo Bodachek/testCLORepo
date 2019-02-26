@@ -1,0 +1,78 @@
+@import 'node_modules/susy/sass/susy';
+@import 'node_modules/susy/sass/plugins/svg-grid';
+
+$susy: ('svg-grid-colors': hsl(180, 50%, 80%),
+'columns': susy-repeat(12),
+'gutters': 32px,
+'spread': 'wide',
+);
+
+.customLearning {
+  // background: susy-svg-grid();
+  padding-bottom: 200px;
+
+  .title {
+    margin: 0;
+    padding-left: 10px;
+  }
+
+  &.appPartPage {
+    max-width: 1220px;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin: 0 auto;
+    box-sizing: border-box;
+  }
+
+  .spouterframe {
+    position: relative;
+    display: flex;
+    padding: 50vh 0 0 0;
+    min-height: 100vh;
+  }
+
+  .outerframe {
+    @extend .spouterframe;
+    padding: 100% 0 0 0;
+  }
+
+  .innerframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  :global {
+    @import '../../../../../styleguide/app/styles/main.spfx';
+  }
+}
+
+:global {
+  .CanvasSection-xl4 {
+    :local {
+      .customLearning {
+        :global {
+          .headerpanel {
+            flex-direction: column;
+
+            &-left,
+            &-right {
+              width: unset;
+              flex-basis: unset;
+            }
+          }
+
+          .plov {
+            column-count: 1;
+          }
+
+          .sldpnl {
+            width: 100%;
+          }
+        }
+      }
+    }
+  }
+}

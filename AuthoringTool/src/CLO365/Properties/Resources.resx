@@ -1,0 +1,440 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="computer_1_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\computer(1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="contract" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\contract.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="edit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\edit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="edit_1_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\edit(1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="file" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\file.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="folder" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\folder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="folder_1_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\folder(1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LabelMsgEnterOTP" xml:space="preserve">
+    <value>Please provide a valid 2fa code that you might have received on your authentication app registered for GitHub.</value>
+  </data>
+  <data name="MsgAssetAddedSuccessfully" xml:space="preserve">
+    <value>New Asset has been added successfully to the playlist: {0}</value>
+  </data>
+  <data name="MsgAssetDeletionSuccessfull" xml:space="preserve">
+    <value>The selected Asset "{0}" has been removed successfully.</value>
+  </data>
+  <data name="MsgAudienceAddedSuccessfully" xml:space="preserve">
+    <value>New Role metadata added successfully.</value>
+  </data>
+  <data name="MsgCategoryAddedSuccessfully" xml:space="preserve">
+    <value>New Category metadata added successfully.</value>
+  </data>
+  <data name="MsgChangesNotSaved" xml:space="preserve">
+    <value>The changes you have made have not been saved yet.
+Click 'Yes' to save the changes or 'No' to discard the changes before proceeding.</value>
+  </data>
+  <data name="MsgCommitMsgCannotbeEmpty" xml:space="preserve">
+    <value>Before uploading/committing the changes to GitHub staging repository as a newer version, please provide a short message to describe the changes you have done in this version.</value>
+  </data>
+  <data name="MsgCommitSuccess" xml:space="preserve">
+    <value>The updated CLO365 content JSON files have been uploaded to GitHub staging repository.</value>
+  </data>
+  <data name="MsgConfirmDelete" xml:space="preserve">
+    <value>Are you sure to delete the selected item?</value>
+  </data>
+  <data name="MsgDescCannotbeEmpty" xml:space="preserve">
+    <value>Please fill description. (Required field).</value>
+  </data>
+  <data name="MsgGenericError" xml:space="preserve">
+    <value>Some unexpected error occured, please try again.</value>
+  </data>
+  <data name="MsgIdCannotbeEmpty" xml:space="preserve">
+    <value>Please provide a valid unique Id.</value>
+  </data>
+  <data name="MsgIdExistsAlready" xml:space="preserve">
+    <value>Id exists already. Please enter a valid and unique id.</value>
+  </data>
+  <data name="MsgImageCannotbeEmpty" xml:space="preserve">
+    <value>Please provide an image file.</value>
+  </data>
+  <data name="MsgImageFileSizeExceeds" xml:space="preserve">
+    <value>Dimensions of the image file is incorrect. Maximum allowed dimension is 280x200.</value>
+  </data>
+  <data name="MsgInvalidCredentials" xml:space="preserve">
+    <value>The credentials provided are not valid. Please try again with valid GitHub credentials.</value>
+  </data>
+  <data name="MsgInvalidOTP" xml:space="preserve">
+    <value>Please provide a valid 2fa code that you might have received on your authentication app registered for GitHub.</value>
+  </data>
+  <data name="MsgLevelAddedSuccessfully" xml:space="preserve">
+    <value>Level metadata has been added successfully.</value>
+  </data>
+  <data name="MsgNameCannotbeEmpty" xml:space="preserve">
+    <value>Please provide a name. Name cannot be empty.</value>
+  </data>
+  <data name="MsgNameExistsAlready" xml:space="preserve">
+    <value>The given name exists already. Please enter a different name.</value>
+  </data>
+  <data name="MsgNetworkError" xml:space="preserve">
+    <value>Sorry, some network related error occured. Please try again.</value>
+  </data>
+  <data name="MsgOTPCannotbeEmpty" xml:space="preserve">
+    <value>Please provide a valid 2fa code.</value>
+  </data>
+  <data name="MsgPasswordCannotbeEmpty" xml:space="preserve">
+    <value>Please provide password. It cannot be empty.</value>
+  </data>
+  <data name="MsgPlaylistAddedSuccessfully" xml:space="preserve">
+    <value>New Playlist has been added successfully</value>
+  </data>
+  <data name="MsgPlaylistDeletionSuccessfull" xml:space="preserve">
+    <value>The selected Playlist "{0}" has been removed successfully.</value>
+  </data>
+  <data name="MsgPullFilesSuccess" xml:space="preserve">
+    <value>The CLO365 content files has been successfully downloded from GitHub staging repository to the local folder</value>
+  </data>
+  <data name="MsgPushedSuccessfully" xml:space="preserve">
+    <value>Changes to the content files have been uploaded to GitHub repo successfully.</value>
+  </data>
+  <data name="MsgSecurityCannotbeEmpty" xml:space="preserve">
+    <value>Please provide the security information.</value>
+  </data>
+  <data name="MsgSelectFoldertoClone" xml:space="preserve">
+    <value>Please browse and select a local folder. This folder will be used to download/clone the files from GitHub Staging repository to it.</value>
+  </data>
+  <data name="MsgSourceAddedSuccessfully" xml:space="preserve">
+    <value>Source metadata added successfully.</value>
+  </data>
+  <data name="MsgSubCategoryAddedSuccessfully" xml:space="preserve">
+    <value>SubCategory metadata added successfully.</value>
+  </data>
+  <data name="MsgSubjectAddedSuccessfully" xml:space="preserve">
+    <value>Subject metdata added successfully.</value>
+  </data>
+  <data name="MsgTechAddedSuccessfully" xml:space="preserve">
+    <value>Technology metdata added successfully.</value>
+  </data>
+  <data name="MsgTitleCannotbeEmpty" xml:space="preserve">
+    <value>Please provide Title. It cannot be empty.</value>
+  </data>
+  <data name="MsgUrlCannotbeEmpty" xml:space="preserve">
+    <value>Please provide valid URL. It cannot be empty.</value>
+  </data>
+  <data name="MsgUsernameCannotbeEmpty" xml:space="preserve">
+    <value>Please provide a valid username.</value>
+  </data>
+  <data name="playlist_3_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\playlist(3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="remove" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\remove.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="save" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\save.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="status-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\status-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="writing" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\writing.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MsgAutoCommitMsg" xml:space="preserve">
+    <value>The updated CLO365 content JSON files have been uploaded to GitHub repository by </value>
+  </data>
+  <data name="MsgConfirmToPullonMergeException" xml:space="preserve">
+    <value>There are some merge issue in uploading the files to staging repo. Do you want to download the latest and merge your changes to it?</value>
+  </data>
+  <data name="MsgPushConflictOccured" xml:space="preserve">
+    <value>There are some merge issue in uploading the files to staging repo. Please follow the following steps to resolve this issue:
+1. Backup your files
+2. Pull files from repository
+3. Compare files and resolve conflicts
+4. Push files to repository</value>
+  </data>
+  <data name="MsgFilesContainsMergeConflict" xml:space="preserve">
+    <value> have some special characters found in the changes and that is causing some conflict during the merge. Please remove the special characters.</value>
+  </data>
+  <data name="MsgAssetUpdatedSuccessfully" xml:space="preserve">
+    <value>The selected Asset "{0}" has been updated successfully.</value>
+  </data>
+  <data name="MsgAudienceUpdatedSuccessfully" xml:space="preserve">
+    <value>Role details are updated successfully.</value>
+  </data>
+  <data name="MsgCategoryUpdatedSuccessfully" xml:space="preserve">
+    <value>Category details are updated successfully.</value>
+  </data>
+  <data name="MsgLevelUpdatedSuccessfully" xml:space="preserve">
+    <value>Level metadata has been updated successfully.</value>
+  </data>
+  <data name="MsgPlaylistUpdatedSuccessfully" xml:space="preserve">
+    <value>The selected Playlist "{0}" has been updated successfully.</value>
+  </data>
+  <data name="MsgSourceUpdatedSuccessfully" xml:space="preserve">
+    <value>Source metadata updated successfully.</value>
+  </data>
+  <data name="MsgSubCategoryUpdatedSuccessfully" xml:space="preserve">
+    <value>SubCategory metadata updated successfully.</value>
+  </data>
+  <data name="MsgSubjectUpdatedSuccessfully" xml:space="preserve">
+    <value>Subject metdata updated successfully.</value>
+  </data>
+  <data name="MsgTechUpdatedSuccessfully" xml:space="preserve">
+    <value>Technology metdata updated successfully.</value>
+  </data>
+  <data name="StrSubjectLevel1Intent" xml:space="preserve">
+    <value>    </value>
+  </data>
+  <data name="StrSubjectLevel2Intent" xml:space="preserve">
+    <value>        </value>
+  </data>
+  <data name="MsgConfirmChangeGuid" xml:space="preserve">
+    <value>Are you sure you want to change this unique Id (GUID)? 
+
+Note: Playlist GUIDs are used/referenced by the SharePoint app, so it is advised not to change the ID of any existing playlist. </value>
+  </data>
+  <data name="MsgConfirmCloseCloneForm" xml:space="preserve">
+    <value>Are you sure you want to exit without setting up the CLO365 repository locally?</value>
+  </data>
+  <data name="MsgCommitFailed" xml:space="preserve">
+    <value>Sorry, There is nothing to commit.</value>
+  </data>
+  <data name="MsgConfirmCancelClick" xml:space="preserve">
+    <value>Are you sure, you want to cancel your changes?</value>
+  </data>
+  <data name="TitleChangesNotSaved" xml:space="preserve">
+    <value>Changes not saved</value>
+  </data>
+  <data name="TitleConfirmCancelClick" xml:space="preserve">
+    <value>Confirm cancel click</value>
+  </data>
+  <data name="TitleConfirmChangeGuid" xml:space="preserve">
+    <value>Confirm change GUID</value>
+  </data>
+  <data name="TitleConfirmCloseCloneForm" xml:space="preserve">
+    <value>Confirm to close form</value>
+  </data>
+  <data name="TitleConfirmDelete" xml:space="preserve">
+    <value>Confirm delete</value>
+  </data>
+  <data name="TitleConfirmToPullonMergeException" xml:space="preserve">
+    <value>Confirm on pull to merge</value>
+  </data>
+  <data name="StrSelectAnyComboOption" xml:space="preserve">
+    <value>(Select any from the list)</value>
+  </data>
+  <data name="MsgConfirmPullonPushtoProd" xml:space="preserve">
+    <value>Publish to production requires latest files to be downloaded and merged to continue. Click Yes to proceed or No to cancel the operation.</value>
+  </data>
+  <data name="MsgPushedtoProductionSuccessfully" xml:space="preserve">
+    <value>Changes to the content files have been uploaded to GitHub production repo successfully.</value>
+  </data>
+  <data name="TitleConfirmPullonPushtoProd" xml:space="preserve">
+    <value>Confirm to pull</value>
+  </data>
+  <data name="TitleError" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="TitlePull" xml:space="preserve">
+    <value>Download and merge files</value>
+  </data>
+  <data name="TitlePush" xml:space="preserve">
+    <value>Upload files</value>
+  </data>
+  <data name="TitleSuccess" xml:space="preserve">
+    <value>Success</value>
+  </data>
+  <data name="cloud_computing" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cloud-computing.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cloud_computing__1_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cloud-computing (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cloud_computing__3_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cloud-computing (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cloud_computing__4_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cloud-computing (4).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="down_arrow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\down-arrow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="refresh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\refresh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="scroll_arrow_to_down" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\scroll-arrow-to-down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="scroll_arrow_to_down__1_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\scroll-arrow-to-down (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StrSubjectLevel3Intent" xml:space="preserve">
+    <value>            </value>
+  </data>
+  <data name="up_arrow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\up-arrow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="up_scroll_arrow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\up-scroll-arrow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="up_scroll_arrow__1_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\up-scroll-arrow (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StrProductionFolderName" xml:space="preserve">
+    <value>Production</value>
+  </data>
+  <data name="StrStagingFolderName" xml:space="preserve">
+    <value>Staging</value>
+  </data>
+  <data name="cancel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cancel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="checked__1_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\checked (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MsgAllItemsNotReviwed" xml:space="preserve">
+    <value>Please accept/reject all pending changes to proceed.</value>
+  </data>
+  <data name="MsgMetadatainUseCannotReject" xml:space="preserve">
+    <value>This metadata is in use and is associated with {0} playlists and {1} assets. Cannot remove the metadata</value>
+  </data>
+  <data name="text_document_button_accepted" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\text-document-button-accepted.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="text_document_cancel_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\text-document-cancel-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MsgAccessDenied" xml:space="preserve">
+    <value>Sorry, You do not have permission to access files. Please contact your network administrator.</value>
+  </data>
+  <data name="MsgLoginFailure" xml:space="preserve">
+    <value>Sorry, some network related error occured. Please make sure that you are not using email id for username.</value>
+  </data>
+  <data name="MsgProvideUsernameNotEmail" xml:space="preserve">
+    <value>Please use your username (do not use email address)</value>
+  </data>
+</root>
