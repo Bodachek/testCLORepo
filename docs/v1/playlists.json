@@ -1,5 +1,18 @@
 [
 {
+	"Id": "eab0b3f4-fd64-4afe-aa2a-c27d34d80d93",
+	"Title": “Vitalist Test Add”,
+	"Image": "images/categories/vitalystdefault.png",
+	"Level": "Beginner",
+	"Audience": "End Users",
+	"Technology": "Excel",
+	"Subject": "",
+	"Category": "Office 365 Apps",
+	"SubCategory": “VitalystKA”,
+	"Source": “Vitalyst”,
+	"Assets": ["5c10925c-4c56-41fc-baf3-638058439c3f"] 
+},
+{
 	"Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
 	"Title": "Excel Quick start",
 	"Image": "images/playlists/excel_quick_start.png",
