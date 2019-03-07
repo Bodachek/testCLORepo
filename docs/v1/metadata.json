@@ -152,6 +152,10 @@
       "Security": "Visitors",
       "Image": "",
       "SubCategories": [
+	{
+          "Name": "VitalystKA",
+          "Image": "images/categories/vitalystdefault.png"
+        },
         {
           "Name": "Excel Training",
           "Image": "images/categories/excel_training.png"
@@ -253,7 +257,8 @@
     "FastTrack",
     "M365",
     "Microsoft",
-    "LinkedIn"
+    "LinkedIn",
+    "Vitalyst"
   ],
   "Levels": [
     "Beginner",
