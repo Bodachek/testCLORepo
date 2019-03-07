@@ -1,18 +1,5 @@
 [
 {
-	"Id": "5c10925c-4c56-41fc-baf3-638058439c3f",
-	"Title": "Testing KA/Vitalyst Add",
-	"Description": "",
-	"Url": "https://www.vitalyst.com”,
-	"Level": "Beginner",
-	"Audience": "End Users",
-	"Technology": "Excel",
-	"Subject": "",
-	"Category": "Office 365 Apps",
-	"SubCategory": "VitalistKA",
-	"Source": "Vitalystv
-},
-{
 	"Id": "94b00f50-5896-479c-b0c5-ff74603b35a3",
 	"Title": "Create a worksheet",
 	"Description": "",
