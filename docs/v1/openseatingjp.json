@@ -1,0 +1,87 @@
+{
+    "data": [{
+        "active": true,
+        "APIKey": "80d30644-b85f-468e-94a9-0723c1ec58d0",
+        "modifiedDate": "03/01/2019",
+        "orgName": "Vitalyst, LLC.",
+        "orgID": "VITALS-100",
+        "myData": "Vitalyst Webinar Data",
+        "items": [{"author": "Vitalyst",
+            "added": "3/7/19",
+            "appID": “SharePoint”,
+            "thumb": "openSeating",
+            "application": “SharePoint”,
+            "enrollmentURL": "https://vitalystevents.webex.com/vitalystevents/onstage/g.php?MTID=e71054c844cbfa7e5542458b731ade93d",
+            "date": "3/1/2019  10:00:00 AM EST EST",
+            "description": "このクラスでは、SharePoint Online、Microsoftのオンライン共有ファイルストレージシステムについて説明します。学習者は、サイト内のコンテンツを追加および管理する方法を教えられます。",
+            "name": "SharePoint Onlineを使い始める",
+            "displayUntil": "3/1/2019 10:00 AM EST",
+            "_id": "e71054c844cbfa7e5542458b731ade93d"
+        },
+        {
+            "author": "Vitalyst",
+            "added": "3/7/19",
+            "appID": "Excel",
+            "thumb": "openSeating",
+            "application": "Excel 2013",
+            "enrollmentURL": "https://vitalystevents.webex.com/vitalystevents/onstage/g.php?MTID=e9ab02813e7ed6469df04f442aef1cabf",
+            "date": "3/1/2019  3:00:00 PM EST EST",
+            "description": "You will learn how to use Excel tools that can help you develop meaningful summaries for large quantities of data. These tools include Subtotals and PivotTables.",
+            "name": "Summarizing Data",
+            "displayUntil": "3/1/2019 3:00 PM EST",
+            "_id": "e9ab02813e7ed6469df04f442aef1cabf"
+        },
+        {
+            "author": "Vitalyst",
+            "added": "3/7/19",
+            "appID": "Outlook",
+            "thumb": "openSeating",
+            "application": "Outlook 2016",
+            "enrollmentURL": "https://vitalystevents.webex.com/vitalystevents/onstage/g.php?MTID=eabf00d895f25bfc0557ed9be4eb87ec1",
+            "date": "3/4/2019  10:00:00 AM EST EST",
+            "description": "This class begins with the features new to the Outlook 2016 desktop client. Next, we move on to the Outlook Web App and cover the layout, navigation methods, and how to find common commands in Mail, Calendar, People, and Tasks.  Finally, weíll discuss using Groups within Outlook.",
+            "name": "Outlook 2016 Desktop and Web App",
+            "displayUntil": "3/4/2019 10:00 AM EST",
+            "_id": "eabf00d895f25bfc0557ed9be4eb87ec1"
+        },
+        {
+            "author": "Vitalyst",
+            "added": "3/7/19",
+            "appID": "OneDrive",
+            "thumb": "openSeating",
+            "application": "OneDrive for Business",
+            "enrollmentURL": "https://vitalystevents.webex.com/vitalystevents/onstage/g.php?MTID=ea5f03c18ecbf81658c0970b17ef86a3b",
+            "date": "3/4/2019  3:00:00 PM EST EST",
+            "description": "An in depth look at OneDrive for Business. The course begins with key concepts and navigation, then moves on to managing files and synching for offline access. Next, it covers sharing and managing permissions, followed by an in-depth look at collaboration and co-authoring.  Finally, the course wraps up with advanced document management features and client integration features for the Microsoft Office desktop programs.",
+            "name": "OneDrive for Business - Sharing Simplified",
+            "displayUntil": "3/4/2019 3:00 PM EST",
+            "_id": "ea5f03c18ecbf81658c0970b17ef86a3b"
+        },
+        {
+            "author": "Vitalyst",
+            "added": "3/7/19",
+            "appID": "PowerPoint",
+            "thumb": "openSeating",
+            "application": "PowerPoint 2016",
+            "enrollmentURL": "https://vitalystevents.webex.com/vitalystevents/onstage/g.php?MTID=e4a634342a1217c8dc3f4b7b88300c2ea",
+            "date": "3/5/2019  10:00:00 AM EST EST",
+            "description": "This class focuses on how to effectively create and present professional PowerPoint presentations, including how to customize slide masters, work with layouts, and add animations to slide elements. It also covers multiple methods for sharing presentations with others.",
+            "name": "Getting Started with PowerPoint 2016",
+            "displayUntil": "3/5/2019 10:00 AM EST",
+            "_id": "e4a634342a1217c8dc3f4b7b88300c2ea"
+        },
+        {
+            "author": "Vitalyst",
+            "added": "3/7/19",
+            "appID": "Outlook",
+            "thumb": "openSeating",
+            "application": "Outlook 2016",
+            "enrollmentURL": "https://vitalystevents.webex.com/vitalystevents/onstage/g.php?MTID=e858eeac86351db1c1854f86d2dfb58ba",
+            "date": "3/5/2019  3:00:00 PM EST EST",
+            "description": "This class focuses on how to create and customize Outlook items including emails, calendar events, contacts, and tasks. It also covers setting permissions for sharing and delegation.",
+            "name": "Getting Started with Outlook 2016",
+            "displayUntil": "3/5/2019 3:00 PM EST",
+            "_id": "e858eeac86351db1c1854f86d2dfb58ba"
+        }]
+    }]
+}
