@@ -13,8 +13,8 @@
             "application": “SharePoint”,
             "enrollmentURL": "https://vitalystevents.webex.com/vitalystevents/onstage/g.php?MTID=e71054c844cbfa7e5542458b731ade93d",
             "date": "3/1/2019  10:00:00 AM EST EST",
-            "description": "このクラスでは、SharePoint Online、Microsoftのオンライン共有ファイルストレージシステムについて説明します。学習者は、サイト内のコンテンツを追加および管理する方法を教えられます。",
-            "name": "SharePoint Onlineを使い始める",
+            "description": “sharepoint online“,
+            "name": "SharePoint Online",
             "displayUntil": "3/1/2019 10:00 AM EST",
             "_id": "e71054c844cbfa7e5542458b731ade93d"
         },
