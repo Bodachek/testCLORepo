@@ -21,7 +21,7 @@
         {
             "author": "Vitalyst",
             "added": "3/7/19",
-            "appID": “Office”,
+            "appID": "Office",
             "thumb": "openSeating",
             "application": “Office 365”,
             "enrollmentURL": "https://vitalystevents.webex.com/vitalystevents/onstage/g.php?MTID=e9ab02813e7ed6469df04f442aef1cabf",
@@ -34,7 +34,7 @@
         {
             "author": "Vitalyst",
             "added": "3/7/19",
-            "appID": “Teams”,
+            "appID": "Teams",
             "thumb": "openSeating",
             "application": “Teams”,
             "enrollmentURL": "https://vitalystevents.webex.com/vitalystevents/onstage/g.php?MTID=eabf00d895f25bfc0557ed9be4eb87ec1",
@@ -47,7 +47,7 @@
         {
             "author": "Vitalyst",
             "added": "3/7/19",
-            "appID": “Outlook”,
+            "appID": "Outlook",
             "thumb": "openSeating",
             "application": “Outlook”,
             "enrollmentURL": "https://vitalystevents.webex.com/vitalystevents/onstage/g.php?MTID=ea5f03c18ecbf81658c0970b17ef86a3b",
@@ -60,7 +60,7 @@
         {
             "author": "Vitalyst",
             "added": "3/7/19",
-            "appID": “Yammer”,
+            "appID": "Yammer",
             "thumb": "openSeating",
             "application": “Yammer”,
             "enrollmentURL": "https://vitalystevents.webex.com/vitalystevents/onstage/g.php?MTID=e4a634342a1217c8dc3f4b7b88300c2ea",
@@ -73,7 +73,7 @@
 	{
             "author": "Vitalyst",
             "added": "3/7/19",
-            "appID": “Onedrive”,
+            "appID": "Onedrive",
             "thumb": "openSeating",
             "application": “OneDrive”,
             "enrollmentURL": "https://vitalystevents.webex.com/vitalystevents/onstage/g.php?MTID=e4a634342a1217c8dc3f4b7b88300c2ea",
