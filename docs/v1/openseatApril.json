@@ -1,0 +1,559 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \{\
+    "data": [\{\
+        "active": true,\
+        "APIKey": "80d30644-b85f-468e-94a9-0723c1ec58d0",\
+        "modifiedDate": "03/01/2019",\
+        "orgName": "Vitalyst, LLC.",\
+        "orgID": "VITALS-100",\
+        "myData": "Vitalyst Webinar Data",\
+        "items": [\
+        \{\
+            "application": "Outlook 2016",\
+            "appID": "Outlook",\
+            "name": "Outlook 2016 Desktop and Web App",\
+            "description": "This class begins with the features new to the Outlook 2016 desktop client. Next, we move on to the Outlook Web App and cover the layout, navigation methods, and how to find common commands in Mail, Calendar, People, and Tasks.  Finally, we\'92ll discuss using Groups within Outlook.",\
+            "date": "4/1/19 10:00 AM",\
+            "displayUntil": "4/1/19 10:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/903121467"\
+        \},\
+        \{\
+            "application": "OneDrive for Business",\
+            "appID": "OneDrive",\
+            "name": "OneDrive for Business - Sharing Simplified",\
+            "description": "An in depth look at OneDrive for Business. The course begins with key concepts and navigation, then moves on to managing files and synching for offline access. Next, it covers sharing and managing permissions, followed by an in-depth look at collaboration and co-authoring.  Finally, the course wraps up with advanced document management features and client integration features for the Microsoft Office desktop programs.",\
+            "date": "4/1/19 2:00 PM",\
+            "displayUntil": "4/1/19 2:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/502788627"\
+        \},\
+        \{\
+            "application": "Outlook Mobile App",\
+            "appID": "Outlook",\
+            "name": "Getting Started with Outlook Mobile",\
+            "description": "This class will introduce audiences to Outlook Mobile App, Microsoft's mobile email app. Learners will be taught how to work with mail, contacts, and the calendar.",\
+            "date": "4/1/19 5:00 PM",\
+            "displayUntil": "4/1/19 5:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/734347373"\
+        \},\
+        \{\
+            "application": "PowerPoint 2016",\
+            "appID": "PowerPoint",\
+            "name": "Getting Started with PowerPoint 2016",\
+            "description": "This class focuses on how to effectively create and present professional PowerPoint presentations, including how to customize slide masters, work with layouts, and add animations to slide elements. It also covers multiple methods for sharing presentations with others.",\
+            "date": "4/2/19 10:00 AM",\
+            "displayUntil": "4/2/19 10:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/244365431"\
+        \},\
+        \{\
+            "application": "Outlook 2016",\
+            "appID": "Outlook",\
+            "name": "Getting Started with Outlook 2016",\
+            "description": "This class focuses on how to create and customize Outlook items including emails, calendar events, contacts, and tasks. It also covers setting permissions for sharing and delegation.",\
+            "date": "4/2/19 2:00 PM",\
+            "displayUntil": "4/2/19 2:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/584370483"\
+        \},\
+        \{\
+            "application": "Windows 10",\
+            "appID": "Windows",\
+            "name": "Windows 10 Day 1",\
+            "description": "This class focuses on the settings and customization options most users will want to set on their first day working with Windows 10.",\
+            "date": "4/3/19 10:00 AM",\
+            "displayUntil": "4/3/19 10:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/669202678"\
+        \},\
+        \{\
+            "application": "Office 365",\
+            "appID": "Office",\
+            "name": "Collaboration Tips in Office 365",\
+            "description": "This course will cover different tools and tips for collaboration in the Office 365 Environment.  We\'92ll discuss the benefits of storing documents in the cloud, working with sharing and permissions, tools for brainstorming and collaboration, co-authoring documents, revising content and follow up tools.",\
+            "date": "4/3/19 2:00 PM",\
+            "displayUntil": "4/3/19 2:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/365529691"\
+        \},\
+        \{\
+            "application": "Word 2016",\
+            "appID": "Word",\
+            "name": "Word 2016 Review and Collaboration",\
+            "description": "This class focuses on collaborating with colleagues on the development of a Word document over time. The comments and track changes tools on the Review tab will be discussed as well as storing and sharing files from OneDrive for Business and SharePoint instead of sending them as traditional email file attachments. \\r\\nLive coauthoring is available when documents are accessed from OneDrive for Business or SharePoint. Other new features introduced since Word 2010 will be discussed as time allows. \\r\\n",\
+            "date": "4/4/19 10:00 AM",\
+            "displayUntil": "4/4/19 10:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/227008277"\
+        \},\
+        \{\
+            "application": "Skype for Business",\
+            "appID": "Skype",\
+            "name": "Skype for Business",\
+            "description": "In this class we get new users up and running with a basic walk through of Skype for Business communication and collaboration tools. After this class, users will be able to: find contacts, communicate with contacts and groups, instant message contacts and groups, utilize skype audio or video calls, create and join meetings, and share content.",\
+            "date": "4/4/19 2:00 PM",\
+            "displayUntil": "4/4/19 2:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/365047499"\
+        \},\
+        \{\
+            "application": "Outlook Mobile App",\
+            "appID": "Outlook",\
+            "name": "Getting Started with Outlook Mobile",\
+            "description": "This class will introduce audiences to Outlook Mobile App, Microsoft's mobile email app. Learners will be taught how to work with mail, contacts, and the calendar.",\
+            "date": "4/5/19 6:00 AM",\
+            "displayUntil": "4/5/19 6:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/780270058"\
+        \},\
+        \{\
+            "application": "OneDrive Mobile App",\
+            "appID": "OneDrive",\
+            "name": "Getting Started with OneDrive Mobile",\
+            "description": "This class will introduce audiences to the OneDrive mobile app for Android and iOS, Microsoft's mobile storage app. Learners will be taught how to manage, share, and collaborate with files and folders.",\
+            "date": "4/5/19 10:00 AM",\
+            "displayUntil": "4/5/19 10:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/953880735"\
+        \},\
+        \{\
+            "application": "Outlook 2016",\
+            "appID": "Outlook",\
+            "name": "Outlook 2016 Desktop and Web App",\
+            "description": "This class begins with the features new to the Outlook 2016 desktop client. Next, we move on to the Outlook Web App and cover the layout, navigation methods, and how to find common commands in Mail, Calendar, People, and Tasks.  Finally, we\'92ll discuss using Groups within Outlook.",\
+            "date": "4/5/19 2:00 PM",\
+            "displayUntil": "4/5/19 2:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/974953119"\
+        \},\
+        \{\
+            "application": "Teams",\
+            "appID": "Teams",\
+            "name": "Getting Started with Teams",\
+            "description": "This class will explore the Teams interface in the Office 365 Portal and take users through the various collaborative capabilities that Teams provides. This class includes the basics of Teams for new users who are not administrators. After this class, users will be able to: create a Team, separate conversations with channels, contribute to conversations in channels, locate other channel tab options, find information in Teams, communicate with Team members via chat, and communicate with Team members in a meeting.",\
+            "date": "4/8/19 10:00 AM",\
+            "displayUntil": "4/8/19 10:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/449059015"\
+        \},\
+        \{\
+            "application": "Teams",\
+            "appID": "Teams",\
+            "name": "Getting Started with Teams",\
+            "description": "This class will explore the Teams interface in the Office 365 Portal and take users through the various collaborative capabilities that Teams provides. This class includes the basics of Teams for new users who are not administrators. After this class, users will be able to: create a Team, separate conversations with channels, contribute to conversations in channels, locate other channel tab options, find information in Teams, communicate with Team members via chat, and communicate with Team members in a meeting.",\
+            "date": "4/8/19 2:00 PM",\
+            "displayUntil": "4/8/19 2:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/484296502"\
+        \},\
+        \{\
+            "application": "Teams Mobile App",\
+            "appID": "Teams",\
+            "name": "Getting Started with Teams Mobile",\
+            "description": "This class will introduce audiences to the Teams mobile app for Android and iOS. Learners will be taught how to navigate the application interface and work with teams, channels, conversations, meetings and chats.",\
+            "date": "4/8/19 5:00 PM",\
+            "displayUntil": "4/8/19 5:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/299939259"\
+        \},\
+        \{\
+            "application": "Office 365",\
+            "appID": "Office",\
+            "name": "Collaboration Tips in Office 365",\
+            "description": "This course will cover different tools and tips for collaboration in the Office 365 Environment.  We\'92ll discuss the benefits of storing documents in the cloud, working with sharing and permissions, tools for brainstorming and collaboration, co-authoring documents, revising content and follow up tools.",\
+            "date": "4/9/19 10:00 AM",\
+            "displayUntil": "4/9/19 10:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/153494694"\
+        \},\
+        \{\
+            "application": "Windows 10",\
+            "appID": "Windows",\
+            "name": "Getting Started with Windows 10",\
+            "description": "This class focuses on learning the new interface, finding files and content, working with Apps and managing your workspace in Windows 10.",\
+            "date": "4/9/19 2:00 PM",\
+            "displayUntil": "4/9/19 2:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/100435218"\
+        \},\
+        \{\
+            "application": "Office 365",\
+            "appID": "Office",\
+            "name": "Outlook 2016 and Skype for Business- Integration and Meeting Management",\
+            "description": "In this class, existing Outlook users will expand their expertise in the Outlook application by exploring ways that it integrates with Skype for Business, as well as looking at managing meetings, meeting content, and delegated meetings in Skype for Business. After this class users will be able to: identify basic Outlook and Skype integration, manage meetings with Skype and Outlook, present Skype meeting content, collaborate in a Skype meeting, manage Skype meeting content, assign Skype meeting presenters, and configure delegation.",\
+            "date": "4/10/19 10:00 AM",\
+            "displayUntil": "4/10/19 10:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/632495400"\
+        \},\
+        \{\
+            "application": "Excel 2016",\
+            "appID": "Excel",\
+            "name": "Getting Started with Excel 2016",\
+            "description": "This class covers the basics of entering and analyzing data, creating simple visualizations, and formatting worksheets.",\
+            "date": "4/10/19 2:00 PM",\
+            "displayUntil": "4/10/19 2:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/578977174"\
+        \},\
+        \{\
+            "application": "Office 365",\
+            "appID": "Office",\
+            "name": "Document Creation and Collaboration in Office 365",\
+            "description": "The class starts from the following scenario: You and your team need to create a new document that will be distributed to the entire company. In order to accomplish this, your team will need to brainstorm, create, and edit the drafts. Once it is completed, you need to approve the document before it is distributed to the rest of the company employees.",\
+            "date": "4/11/19 10:00 AM",\
+            "displayUntil": "4/11/19 10:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/978795013"\
+        \},\
+        \{\
+            "application": "Access 2016",\
+            "appID": "Access",\
+            "name": "Getting Started with Access 2016",\
+            "description": "This course will familiarize users with Access 2016, including both Access desktop databases and Access web apps.  Options to create, open, and save databases will be reviewed.  Multiple object types will be covered, including tables, queries, forms, and reports.  Views and Controls in web app databases will also be introduced.",\
+            "date": "4/11/19 2:00 PM",\
+            "displayUntil": "4/11/19 2:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/420205733"\
+        \},\
+        \{\
+            "application": "SharePoint Online",\
+            "appID": "SharePoint",\
+            "name": "Getting Started with SharePoint Online",\
+            "description": "This class will introduce audiences to SharePoint Online, Microsoft online shared file storage system. Learners will be taught how to add and manage content within a site.",\
+            "date": "4/12/19 6:00 AM",\
+            "displayUntil": "4/12/19 6:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/139531489"\
+        \},\
+        \{\
+            "application": "Word 2016",\
+            "appID": "Word",\
+            "name": "Getting Started with Word 2016",\
+            "description": "This class focuses on effectively planning and creating a document, including customizing bulleted lists and inserting objects. It also covers the basics of sharing documents for collaboration.",\
+            "date": "4/12/19 10:00 AM",\
+            "displayUntil": "4/12/19 10:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/381419102"\
+        \},\
+        \{\
+            "application": "OneNote 2016",\
+            "appID": "OneNote",\
+            "name": "Getting Started with OneNote 2016",\
+            "description": "This class covers how to create and use a OneNote notebook, including sending information to OneNote from other programs, linking notes to Outlook items, and basic collaboration tools.",\
+            "date": "4/12/19 2:00 PM",\
+            "displayUntil": "4/12/19 2:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/439007309"\
+        \},\
+        \{\
+            "application": "Excel 2013",\
+            "appID": "Excel",\
+            "name": "Formula Basics and Frequently Used Functions",\
+            "description": "Learn the basics of how to create formulas in Excel, including the most frequently used functions.  You will also learn how to have Excel help you find functions that will perform calculations you need.",\
+            "date": "4/15/19 10:00 AM",\
+            "displayUntil": "4/15/19 10:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/884029885"\
+        \},\
+        \{\
+            "application": "Teams",\
+            "appID": "Teams",\
+            "name": "Getting Started with Teams",\
+            "description": "This class will explore the Teams interface in the Office 365 Portal and take users through the various collaborative capabilities that Teams provides. This class includes the basics of Teams for new users who are not administrators. After this class, users will be able to: create a Team, separate conversations with channels, contribute to conversations in channels, locate other channel tab options, find information in Teams, communicate with Team members via chat, and communicate with Team members in a meeting.",\
+            "date": "4/15/19 2:00 PM",\
+            "displayUntil": "4/15/19 2:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/307948518"\
+        \},\
+        \{\
+            "application": "SharePoint Online",\
+            "appID": "SharePoint",\
+            "name": "Getting Started with SharePoint Online",\
+            "description": "This class will introduce audiences to SharePoint Online, Microsoft online shared file storage system. Learners will be taught how to add and manage content within a site.",\
+            "date": "4/15/19 5:00 PM",\
+            "displayUntil": "4/15/19 5:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/653666525"\
+        \},\
+        \{\
+            "application": "Excel 2016",\
+            "appID": "Excel",\
+            "name": "Power Pivot for Excel 2016",\
+            "description": "This course will provide an introduction to Power Pivot for Excel 2016.  Adding data from Excel tables, as well as external data sources, will be covered, followed by how to relate the tables to each other.  Working with hierarchies and categories will be discussed.  A variety of DAX calculations will be presented, including lookup functions.  We will examine the use of these calculations in relation to measures, calculated columns, and key performance indicators.  Understanding dates and date tables will also be touched upon.",\
+            "date": "4/16/19 10:00 AM",\
+            "displayUntil": "4/16/19 10:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/677203203"\
+        \},\
+        \{\
+            "application": "Office 365",\
+            "appID": "Office",\
+            "name": "Introduction to Office 365 Outlook Web App",\
+            "description": "An introduction to using the Office 365 Outlook Web App. This session includes how to navigate the app online, as well as working with emails, calendars, and contacts from within Office 365.",\
+            "date": "4/16/19 2:00 PM",\
+            "displayUntil": "4/16/19 2:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/507731469"\
+        \},\
+        \{\
+            "application": "Yammer",\
+            "appID": "Yammer",\
+            "name": "Getting Started with Yammer",\
+            "description": "In this class for new Yammer users, we cover everything to get users up and running as Yammer contributors. After this class, users will be able to: Navigate Yammer, Post new content, Add a post, Reply to posts, Narrow content by groups, Focus on individuals, and Find content.",\
+            "date": "4/17/19 10:00 AM",\
+            "displayUntil": "4/17/19 10:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/951234751"\
+        \},\
+        \{\
+            "application": "Word 2016",\
+            "appID": "Word",\
+            "name": "Word 2016 Review and Collaboration",\
+            "description": "This class focuses on collaborating with colleagues on the development of a Word document over time. The comments and track changes tools on the Review tab will be discussed as well as storing and sharing files from OneDrive for Business and SharePoint instead of sending them as traditional email file attachments. \\r\\nLive coauthoring is available when documents are accessed from OneDrive for Business or SharePoint. Other new features introduced since Word 2010 will be discussed as time allows. \\r\\n",\
+            "date": "4/17/19 2:00 PM",\
+            "displayUntil": "4/17/19 2:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/100034352"\
+        \},\
+        \{\
+            "application": "Windows 10",\
+            "appID": "Windows",\
+            "name": "Getting Started with Windows 10",\
+            "description": "This class focuses on learning the new interface, finding files and content, working with Apps and managing your workspace in Windows 10.",\
+            "date": "4/18/19 10:00 AM",\
+            "displayUntil": "4/18/19 10:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/181439877"\
+        \},\
+        \{\
+            "application": "Excel 2013",\
+            "appID": "Excel",\
+            "name": "Summarizing Data",\
+            "description": "You will learn how to use Excel tools that can help you develop meaningful summaries for large quantities of data. These tools include Subtotals and PivotTables.",\
+            "date": "4/18/19 2:00 PM",\
+            "displayUntil": "4/18/19 2:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/162605076"\
+        \},\
+        \{\
+            "application": "Teams Mobile App",\
+            "appID": "Teams",\
+            "name": "Getting Started with Teams Mobile",\
+            "description": "This class will introduce audiences to the Teams mobile app for Android and iOS. Learners will be taught how to navigate the application interface and work with teams, channels, conversations, meetings and chats.",\
+            "date": "4/19/19 6:00 AM",\
+            "displayUntil": "4/19/19 6:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/472063134"\
+        \},\
+        \{\
+            "application": "PowerPoint 2016",\
+            "appID": "PowerPoint",\
+            "name": "Getting Started with PowerPoint 2016",\
+            "description": "This class focuses on how to effectively create and present professional PowerPoint presentations, including how to customize slide masters, work with layouts, and add animations to slide elements. It also covers multiple methods for sharing presentations with others.",\
+            "date": "4/19/19 10:00 AM",\
+            "displayUntil": "4/19/19 10:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/884800102"\
+        \},\
+        \{\
+            "application": "Teams Mobile App",\
+            "appID": "Teams",\
+            "name": "Getting Started with Teams Mobile",\
+            "description": "This class will introduce audiences to the Teams mobile app for Android and iOS. Learners will be taught how to navigate the application interface and work with teams, channels, conversations, meetings and chats.",\
+            "date": "4/19/19 2:00 PM",\
+            "displayUntil": "4/19/19 2:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/493152214"\
+        \},\
+        \{\
+            "application": "Windows 10",\
+            "appID": "Windows",\
+            "name": "Getting Started with Windows 10",\
+            "description": "This class focuses on learning the new interface, finding files and content, working with Apps and managing your workspace in Windows 10.",\
+            "date": "4/22/19 10:00 AM",\
+            "displayUntil": "4/22/19 10:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/529885369"\
+        \},\
+        \{\
+            "application": "Skype for Business",\
+            "appID": "Skype",\
+            "name": "Skype for Business",\
+            "description": "In this class we get new users up and running with a basic walk through of Skype for Business communication and collaboration tools. After this class, users will be able to: find contacts, communicate with contacts and groups, instant message contacts and groups, utilize skype audio or video calls, create and join meetings, and share content.",\
+            "date": "4/22/19 2:00 PM",\
+            "displayUntil": "4/22/19 2:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/814771193"\
+        \},\
+        \{\
+            "application": "OneDrive Mobile App",\
+            "appID": "OneDrive",\
+            "name": "Getting Started with OneDrive Mobile",\
+            "description": "This class will introduce audiences to the OneDrive mobile app for Android and iOS, Microsoft's mobile storage app. Learners will be taught how to manage, share, and collaborate with files and folders.",\
+            "date": "4/22/19 5:00 PM",\
+            "displayUntil": "4/22/19 5:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/642456937"\
+        \},\
+        \{\
+            "application": "Windows 10",\
+            "appID": "Windows",\
+            "name": "Windows 10 Day 1",\
+            "description": "This class focuses on the settings and customization options most users will want to set on their first day working with Windows 10.",\
+            "date": "4/23/19 10:00 AM",\
+            "displayUntil": "4/23/19 10:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/833538839"\
+        \},\
+        \{\
+            "application": "Yammer",\
+            "appID": "Yammer",\
+            "name": "Getting Started with Yammer",\
+            "description": "In this class for new Yammer users, we cover everything to get users up and running as Yammer contributors. After this class, users will be able to: Navigate Yammer, Post new content, Add a post, Reply to posts, Narrow content by groups, Focus on individuals, and Find content.",\
+            "date": "4/23/19 2:00 PM",\
+            "displayUntil": "4/23/19 2:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/671616069"\
+        \},\
+        \{\
+            "application": "Office 365",\
+            "appID": "Office",\
+            "name": "Office 365 - Your Cloud Collaborative Environment",\
+            "description": "This class begins with a scenario in which you are away on business and the airport has lost your laptop charger, but you have a team document that needs your attention today.  With the tools introduced in this course, you can access your team document from any device \'96 even if Office isn\'92t installed, preventing setbacks for you, as well as the rest of your team. First, users are introduced to using the Navigation bar and App Launcher in Office 365. Within the online versions of the apps, backstage view and the ribbon are reviewed.  General file management and working in the cloud are demonstrated. Finally, users learn how to install and access the mobile applications on both Android and iOS systems.",\
+            "date": "4/24/19 10:00 AM",\
+            "displayUntil": "4/24/19 10:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/119650782"\
+        \},\
+        \{\
+            "application": "Windows 10",\
+            "appID": "Windows",\
+            "name": "Getting Started with Windows 10",\
+            "description": "This class focuses on learning the new interface, finding files and content, working with Apps and managing your workspace in Windows 10.",\
+            "date": "4/24/19 2:00 PM",\
+            "displayUntil": "4/24/19 2:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/890252389"\
+        \},\
+        \{\
+            "application": "SharePoint Online",\
+            "appID": "SharePoint",\
+            "name": "Getting Started with SharePoint Online",\
+            "description": "This class will introduce audiences to SharePoint Online, Microsoft online shared file storage system. Learners will be taught how to add and manage content within a site.",\
+            "date": "4/25/19 10:00 AM",\
+            "displayUntil": "4/25/19 10:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/521920473"\
+        \},\
+        \{\
+            "application": "Teams",\
+            "appID": "Teams",\
+            "name": "Getting Started with Teams",\
+            "description": "This class will explore the Teams interface in the Office 365 Portal and take users through the various collaborative capabilities that Teams provides. This class includes the basics of Teams for new users who are not administrators. After this class, users will be able to: create a Team, separate conversations with channels, contribute to conversations in channels, locate other channel tab options, find information in Teams, communicate with Team members via chat, and communicate with Team members in a meeting.",\
+            "date": "4/25/19 2:00 PM",\
+            "displayUntil": "4/25/19 2:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/390150730"\
+        \},\
+        \{\
+            "application": "OneNote 2016",\
+            "appID": "OneNote",\
+            "name": "Getting Started with OneNote 2016",\
+            "description": "This class covers how to create and use a OneNote notebook, including sending information to OneNote from other programs, linking notes to Outlook items, and basic collaboration tools.",\
+            "date": "4/26/19 6:00 AM",\
+            "displayUntil": "4/26/19 6:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/539034929"\
+        \},\
+        \{\
+            "application": "Outlook 2016",\
+            "appID": "Outlook",\
+            "name": "Getting Started with Outlook 2016",\
+            "description": "This class focuses on how to create and customize Outlook items including emails, calendar events, contacts, and tasks. It also covers setting permissions for sharing and delegation.",\
+            "date": "4/26/19 10:00 AM",\
+            "displayUntil": "4/26/19 10:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/561403580"\
+        \},\
+        \{\
+            "application": "Teams",\
+            "appID": "Teams",\
+            "name": "Getting Started with Teams",\
+            "description": "This class will explore the Teams interface in the Office 365 Portal and take users through the various collaborative capabilities that Teams provides. This class includes the basics of Teams for new users who are not administrators. After this class, users will be able to: create a Team, separate conversations with channels, contribute to conversations in channels, locate other channel tab options, find information in Teams, communicate with Team members via chat, and communicate with Team members in a meeting.",\
+            "date": "4/26/19 2:00 PM",\
+            "displayUntil": "4/26/19 2:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/956322645"\
+        \},\
+        \{\
+            "application": "Outlook Mobile App",\
+            "appID": "Outlook",\
+            "name": "Getting Started with Outlook Mobile",\
+            "description": "This class will introduce audiences to Outlook Mobile App, Microsoft's mobile email app. Learners will be taught how to work with mail, contacts, and the calendar.",\
+            "date": "4/29/19 10:00 AM",\
+            "displayUntil": "4/29/19 10:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/489564511"\
+        \},\
+        \{\
+            "application": "Office 365",\
+            "appID": "Office",\
+            "name": "Effective Meetings in Office 365",\
+            "description": "This class begins with a scenario in which you need to create a meeting in order to present the new Visitor Security Procedures for the company buildings. In order to accomplish this, you must create a meeting invitation and receive feedback for any agenda modifications from all the department heads. Since people are located in different buildings and work across different time zones, there is no opportunity for face-to-face collaboration and you must find other methods to meet and collaborate.",\
+            "date": "4/29/19 2:00 PM",\
+            "displayUntil": "4/29/19 2:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/794002340"\
+        \},\
+        \{\
+            "application": "OneDrive for Business",\
+            "appID": "OneDrive",\
+            "name": "OneDrive for Business - Sharing Simplified",\
+            "description": "An in depth look at OneDrive for Business. The course begins with key concepts and navigation, then moves on to managing files and synching for offline access. Next, it covers sharing and managing permissions, followed by an in-depth look at collaboration and co-authoring.  Finally, the course wraps up with advanced document management features and client integration features for the Microsoft Office desktop programs.",\
+            "date": "4/29/19 5:00 PM",\
+            "displayUntil": "4/29/19 5:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/824262673"\
+        \},\
+        \{\
+            "application": "Windows 10",\
+            "appID": "Windows",\
+            "name": "Getting Started with Windows 10",\
+            "description": "This class focuses on learning the new interface, finding files and content, working with Apps and managing your workspace in Windows 10.",\
+            "date": "4/30/19 10:00 AM",\
+            "displayUntil": "4/30/19 10:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/902560357"\
+        \},\
+        \{\
+            "application": "SharePoint Online",\
+            "appID": "SharePoint",\
+            "name": "Getting Started with SharePoint Online",\
+            "description": "This class will introduce audiences to SharePoint Online, Microsoft online shared file storage system. Learners will be taught how to add and manage content within a site.",\
+            "date": "4/30/19 2:00 PM",\
+            "displayUntil": "4/30/19 2:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/849417727"\
+        \},\
+        \{\
+            "application": "Excel 2016",\
+            "appID": "Excel",\
+            "name": "Getting Started with Excel 2016",\
+            "description": "This class covers the basics of entering and analyzing data, creating simple visualizations, and formatting worksheets.",\
+            "date": "5/1/19 10:00 AM",\
+            "displayUntil": "5/1/19 10:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/281145524"\
+        \},\
+        \{\
+            "application": "Teams Mobile App",\
+            "appID": "Teams",\
+            "name": "Getting Started with Teams Mobile",\
+            "description": "This class will introduce audiences to the Teams mobile app for Android and iOS. Learners will be taught how to navigate the application interface and work with teams, channels, conversations, meetings and chats.",\
+            "date": "5/1/19 2:00 PM",\
+            "displayUntil": "5/1/19 2:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/530784523"\
+        \},\
+        \{\
+            "application": "Windows 10",\
+            "appID": "Windows",\
+            "name": "Windows 10 Day 1",\
+            "description": "This class focuses on the settings and customization options most users will want to set on their first day working with Windows 10.",\
+            "date": "5/2/19 10:00 AM",\
+            "displayUntil": "5/2/19 10:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/497192725"\
+        \},\
+        \{\
+            "application": "Yammer",\
+            "appID": "Yammer",\
+            "name": "Getting Started with Yammer",\
+            "description": "In this class for new Yammer users, we cover everything to get users up and running as Yammer contributors. After this class, users will be able to: Navigate Yammer, Post new content, Add a post, Reply to posts, Narrow content by groups, Focus on individuals, and Find content.",\
+            "date": "5/2/19 2:00 PM",\
+            "displayUntil": "5/2/19 2:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/219364210"\
+        \},\
+        \{\
+            "application": "OneDrive Mobile App",\
+            "appID": "OneDrive",\
+            "name": "Getting Started with OneDrive Mobile",\
+            "description": "This class will introduce audiences to the OneDrive mobile app for Android and iOS, Microsoft's mobile storage app. Learners will be taught how to manage, share, and collaborate with files and folders.",\
+            "date": "5/3/19 6:00 AM",\
+            "displayUntil": "5/3/19 6:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/460776190"\
+        \},\
+        \{\
+            "application": "Skype for Business",\
+            "appID": "Skype",\
+            "name": "Skype for Business",\
+            "description": "In this class we get new users up and running with a basic walk through of Skype for Business communication and collaboration tools. After this class, users will be able to: find contacts, communicate with contacts and groups, instant message contacts and groups, utilize skype audio or video calls, create and join meetings, and share content.",\
+            "date": "5/3/19 10:00 AM",\
+            "displayUntil": "5/3/19 10:00 AM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/128642171"\
+        \},\
+        \{\
+            "application": "Outlook 2016",\
+            "appID": "Outlook",\
+            "name": "Getting Started with Outlook 2016",\
+            "description": "This class focuses on how to create and customize Outlook items including emails, calendar events, contacts, and tasks. It also covers setting permissions for sharing and delegation.",\
+            "date": "5/3/19 2:00 PM",\
+            "displayUntil": "5/3/19 2:00 PM",\
+            "enrollmentURL": "https://vitalystevents.zoom.us/j/357343484"\
+        \}\
+\
+]\
+    \}]\
+\}}
