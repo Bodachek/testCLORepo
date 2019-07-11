@@ -7,8 +7,6 @@
         "orgID": "VITALS-100",
         "myData": "Vitalyst Webinar Data",
         "items": [
-            {
-    "Sheet1": [
         {
             "application": "SharePoint Online",
             "appID": "SharePoint",
@@ -1069,8 +1067,6 @@
             "enrollmentURL": "https://vitalystevents.zoom.us/j/665068829",
             "author": "Vitalyst"
         }
-    ]
-}
         ]
     }]
 }
