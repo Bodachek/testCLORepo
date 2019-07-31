@@ -8,6 +8,16 @@
         "myData": "Vitalyst Webinar Data",
         "items": [
         {
+            "application": "Teams",
+            "appID": "Teams",
+            "name": "INTERACTIVE TRAINING: TEAMS ADD A MEMBER",
+            "description": "This interactive video training will introduce audiences to Teams and its basic features.",
+            "displayUntil": "7/1/19 6:00 AM",
+            "date": "7/1/2019  6:00:00 AM EDT",
+            "enrollmentURL": "https://teams.microsoft.com/_#/html/viewer/teams/https:~2F~2Fdarkk.sharepoint.com~2Fsites~2FDarkk.Net~2FShared%20Documents~2FGeneral~2FTeamsInt~2Fstory_html5.html?threadId=19:50626de34c9c40e383b0d2ef95d01ee7@thread.skype&baseUrl=https:~2F~2Fdarkk.sharepoint.com~2Fsites~2FDarkk.Net&fileId=1FF8C4E4-118A-438A-947C-AFF458D5F120&ctx=files&viewerAction=view",
+            "author": "Vitalyst"
+        },
+        {
             "application": "Outlook Mobile",
             "appID": "Outlook",
             "name": "MICROSOFT OUTLOOK IOS: 5 TIPS TO GET YOU STARTED",
