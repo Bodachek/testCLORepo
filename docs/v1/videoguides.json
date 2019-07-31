@@ -1,0 +1,62 @@
+{
+    "data": [{
+        "active": true,
+        "APIKey": "80d30644-b85f-468e-94a9-0723c1ec58d0",
+        "modifiedDate": "03/01/2019",
+        "orgName": "Vitalyst, LLC.",
+        "orgID": "VITALS-100",
+        "myData": "Vitalyst Webinar Data",
+        "items": [
+        {
+            "application": "Outlook Mobile",
+            "appID": "Outlook",
+            "name": "MICROSOFT OUTLOOK IOS: 5 TIPS TO GET YOU STARTED",
+            "description": "This video will introduce audiences to Outlook Mobile App for iOS, Microsoft's mobile email app. Learners will be taught how to work with mail, contacts, and the calendar.",
+            "displayUntil": "7/1/19 6:00 AM",
+            "date": "7/1/2019  6:00:00 AM EDT",
+            "enrollmentURL": "https://vlp.vitalyst.com/videos/OLiOS_5x5.mp4",
+            "author": "Vitalyst"
+        },
+        {
+            "application": "Teams Mobile App",
+            "appID": "Teams",
+            "name": "ONEDRIVE FOR BUSINESS: 5 TIPS TO GET YOU STARTED",
+            "description": "This video will introduce audiences to OneDrive for Business, Microsoft's cloud storage system. Learners will be taught how to store and access files on the cloud.",
+            "displayUntil": "7/1/19 10:00 AM",
+            "date": "7/1/2019  10:00:00 AM EDT",
+            "enrollmentURL": "https://vlp.vitalyst.com/videos/ONEDRVB.mp4",
+            "author": "Vitalyst"
+        },
+        {
+            "application": "SharePoint",
+            "appID": "SharePoint",
+            "name": "SHAREPOINT ONLINE: 5 TIPS TO GET YOU STARTED",
+            "description": "This video will introduce audiences to SharePoint Online, Microsoft’s online shared file storage system. Learners will be taught how to add and manage content within a site.",
+            "displayUntil": "7/1/19 2:00 PM",
+            "date": "7/1/2019  2:00:00 PM EDT",
+            "enrollmentURL": "https://vlp.vitalyst.com/videos/SPOnline.mp4",
+            "author": "Vitalyst"
+        },
+        {
+            "application": "Teams",
+            "appID": "Teams",
+            "name": "MICROSOFT TEAMS MEETINGS: 5 TIPS TO GET YOU STARTED",
+            "description": "This video will give audiences an in-depth look at using Teams' meeting tools to create effective meetings.",
+            "displayUntil": "7/2/19 10:00 AM",
+            "date": "7/2/2019  10:00:00 AM EDT",
+            "enrollmentURL": "https://vlp.vitalyst.com/videos/TEAMS_5X5_Meetings.mp4",
+            "author": "Vitalyst"
+        },
+        {
+            "application": "Outlook",
+            "appID": "Outlook",
+            "name": "OUTLOOK 2019: HELP ME KNOW QUICK TIPS GUIDE,
+            "description": "This guide will provide helpful tips for working with Outlook 2019.",
+            "displayUntil": "7/2/19 2:00 PM",
+            "date": "7/2/2019  2:00:00 PM EDT",
+            "enrollmentURL": "https://vlp.vitalyst.com/guides/OL2019_HMKG_Quicktips.pdf",
+            "author": "Vitalyst"
+        }
+        ]
+    }]
+}
