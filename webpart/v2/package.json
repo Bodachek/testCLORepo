@@ -28,7 +28,7 @@
     "@types/react-dom": "16.0.5",
     "@types/webpack-env": "1.13.1",
     "applicationinsights-js": "^1.0.20",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.19",
     "react": "16.3.2",
     "sha.js": "^2.4.11",
     "uuid": "^3.3.2"
